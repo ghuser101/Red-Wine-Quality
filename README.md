@@ -1,6 +1,8 @@
 # Red wine quality assessment using R
 
-This project was completed in an R Markdown formatted file. You can view the HTML output by downloading and opening RedWineQuality.html
+This project was completed in an R Markdown formatted file. You can view the HTML output by downloading and opening RedWineQuality.html or visiting this link - 
+
+https://cdn.rawgit.com/ghuser101/Red-Wine-Quality/35a1c89b/RedwineQuality.html
 
 Project Overview
 
